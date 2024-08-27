@@ -1,5 +1,5 @@
-# head-spinning-HTML+CSS+GSAP
+# dedo-spinning-HTML+CSS+GSAP
 
 
-
-![](head-gif.gif)
+![](dedo.gif)
+;
